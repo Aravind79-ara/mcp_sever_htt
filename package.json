@@ -1,0 +1,13 @@
+{
+  "name": "http-client-mcp",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.mjs",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node test.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.1.4"
+  }
+}
